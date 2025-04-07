@@ -62,7 +62,7 @@ const Sidebar = ({ isOpen, toggleSidebar }) => {
             style={{ width: "60px", height: "60px" }}
           />
           <h6>Karina</h6>
-          <small>karina@cuatrolabs.cl</small>
+          <small>karinaarias@gmail.com</small>
         </div>
 
         {/* Links del menú */}

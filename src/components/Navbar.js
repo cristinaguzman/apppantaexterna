@@ -8,10 +8,10 @@ const Navbar = ({ isOpen, toggleSidebar }) => {
       <div className="container-fluid d-flex justify-content-between">
         <span className="navbar-brand d-flex align-items-center">
           <img
-            src="https://i.ibb.co/b5pGpmkF/logoazul1.png"
+            src="https://i.ibb.co/KxWnNLnc/santycompany.png"
             alt="Logo"
             className="me-2"
-            style={{ width: "100px" }}
+            style={{ width: "200px" }}
           />
          
         </span>
